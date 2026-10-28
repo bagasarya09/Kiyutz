@@ -1,6 +1,6 @@
 import { Brand } from '../common/Brand'
 import { InstagramIcon, TikTokIcon, WhatsAppIcon } from '../icons'
-import { FOOTER_COLUMNS, WHATSAPP_URL } from '../../data/site'
+import { FOOTER_COLUMNS, WHATSAPP_URL } from '../../data/Site'
 
 const SOCIALS = [
   { label: 'Instagram', href: 'https://www.instagram.com/kiyutz_drinks_food',           Icon: InstagramIcon },

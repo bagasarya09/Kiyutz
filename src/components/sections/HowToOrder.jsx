@@ -1,7 +1,7 @@
 import { Reveal } from '../common/Reveal'
 import { SectionHead } from '../common/SectionHead'
 import { WhatsAppIcon } from '../icons'
-import { STEPS, WHATSAPP_URL } from '../../data/site'
+import { STEPS, WHATSAPP_URL } from '../../data/Site'
 
 export function HowToOrder() {
   return (

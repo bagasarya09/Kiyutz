@@ -1,5 +1,5 @@
 import { Reveal } from '../common/Reveal'
-import { ABOUT } from '../../data/site'
+import { ABOUT } from '../../data/Site'
 
 /* Kanvas Figma: 572 × 535 px. Semua nilai dikonversi ke persen
    agar ikut berskala saat wadahnya mengecil. */

@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { Brand } from '../common/Brand'
 import { MobileSheet } from './MobileSheet'
 import { ChatIcon, MenuIcon, WhatsAppIcon } from '../icons'
-import { NAV_LINKS, WHATSAPP_URL } from '../../data/site'
+import { NAV_LINKS, WHATSAPP_URL } from '../../data/Site'
 
 export function Navbar({ scrolled, activeId }) {
   const [open, setOpen] = useState(false)

@@ -1,6 +1,6 @@
 import { Reveal } from '../common/Reveal'
 import { CartIcon } from '../icons'
-import { WHATSAPP_URL } from '../../data/site'
+import { WHATSAPP_URL } from '../../data/Site'
 
 export function HeroCard() {
   return (

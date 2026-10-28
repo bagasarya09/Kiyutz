@@ -1,6 +1,6 @@
 import { Brand } from '../common/Brand'
 import { CloseIcon } from '../icons'
-import { NAV_LINKS } from '../../data/site'
+import { NAV_LINKS } from '../../data/Site'
 
 export function MobileSheet({ open, onClose }) {
   return (

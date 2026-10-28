@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { Reveal } from '../common/Reveal'
 import { SectionHead } from '../common/SectionHead'
 import { ICONS } from '../icons'
-import { WHY_CARDS } from '../../data/site'
+import { WHY_CARDS } from '../../data/Site'
 
 export function WhyUs() {
   const [activeIndex, setActiveIndex] = useState(0)

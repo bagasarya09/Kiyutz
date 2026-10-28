@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import { Reveal } from '../common/Reveal'
 import { HeartIcon } from '../icons'
-import { formatRupiah } from '../../data/products'
-import { WHATSAPP_URL } from '../../data/site'
+import { formatRupiah } from '../../data/Products'
+import { WHATSAPP_URL } from '../../data/Site'
 
 export function ProductCard({ product, delay = 0 }) {
   const [liked, setLiked] = useState(false)

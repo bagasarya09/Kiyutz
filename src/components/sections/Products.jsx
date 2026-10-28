@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Reveal } from '../common/Reveal'
 import { ArrowRightIcon } from '../icons'
 import { ProductCard } from './ProductCard'
-import { CATEGORIES, PRODUCTS } from '../../data/products'
+import { CATEGORIES, PRODUCTS } from '../../data/Products'
 
 const GAP = 20 
 

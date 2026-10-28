@@ -2,7 +2,7 @@
 import { Reveal } from '../common/Reveal'
 import { ICONS } from '../icons'
 import { useCountUp } from '../../hooks/useCountUp'
-import { ABOUT } from '../../data/site'
+import { ABOUT } from '../../data/Site'
 import { AboutVisual } from './AboutVisual'
 console.log('ABOUT:', ABOUT)
 

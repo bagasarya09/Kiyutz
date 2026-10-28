@@ -1,5 +1,5 @@
 import { ArrowUpIcon, WhatsAppIcon } from '../icons'
-import { WHATSAPP_URL } from '../../data/site'
+import { WHATSAPP_URL } from '../../data/Site'
 
 /** Tombol WhatsApp yang melebar saat di-hover (kanan bawah). */
 export function WhatsAppFloat() {
